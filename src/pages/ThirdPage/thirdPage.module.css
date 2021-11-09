@@ -1,0 +1,10 @@
+.form__range {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  width: 400px;
+}
+.form__money_title{
+    text-align: center;
+}
